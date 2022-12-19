@@ -1,0 +1,6 @@
+{
+    "company": "SHIVSAGAR Veg Restaurant",
+    "date": "01/07/2022",
+    "address": "NH 3,Mubmai Nashik Highway Opp.Bhoir Pada Bus Stop,Near Padga Bhiwandi,Thane",
+    "total": "419"
+}

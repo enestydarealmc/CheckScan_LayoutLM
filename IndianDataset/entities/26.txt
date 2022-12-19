@@ -1,0 +1,6 @@
+{
+    "company": "GUPTA BROTHERS SWEETS & SNACKS PVT LTD",
+    "date": "20-Jul-2022",
+    "address": "CF203, SECTOR1, SALTLAKE KOLKATA-700064",
+    "total": "181.00"
+}

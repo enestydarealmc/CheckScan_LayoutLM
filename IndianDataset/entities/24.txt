@@ -1,0 +1,6 @@
+{
+    "company": "THE WICKED SPOON Chinese & Thai Cuisine",
+    "date": "05/08/22",
+    "address": "Shop No.38 & 39,Vishal CHS Nr Silver Park Fire Brigade,Mira Road",
+    "total": "392"
+}

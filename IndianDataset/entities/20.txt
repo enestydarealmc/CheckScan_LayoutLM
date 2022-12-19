@@ -1,0 +1,6 @@
+{
+    "company": "Connaught Plaza Restaurants Pvt. Ltd.",
+    "date": "13/07/2022",
+    "address": "P-16 Sector 18, Atta Market, Noida - 201301",
+    "total": "371.00"
+}

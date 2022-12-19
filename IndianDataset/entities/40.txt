@@ -1,0 +1,6 @@
+{
+    "company": "Shiraz Food Product",
+    "date": "23 Jun 2022",
+    "address": "135, Behind Neuro Science Hospital, Park Circus, Beniapukur, Park Stree Area, Kolkata",
+    "total": "1290.00"
+}

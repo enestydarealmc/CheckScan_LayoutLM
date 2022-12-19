@@ -1,0 +1,6 @@
+{
+    "company": "LIZMAT PHARMACY MAIN BRANCH",
+    "date": "23-Jun-22",
+    "address": "LOCATION :AWOSHIE",
+    "total": "132.75"
+}

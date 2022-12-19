@@ -1,0 +1,6 @@
+{
+    "company": "Punjabi By Nature",
+    "date": "2022-08-21",
+    "address": "Ambience Island, Gurgaon, Haryana, 122010",
+    "total": "1825.00"
+}

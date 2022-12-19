@@ -1,0 +1,6 @@
+{
+    "company": "eeshan - Apna Hyderabadi food",
+    "date": "24/07/22",
+    "address": "Building No 2,Peshwa Complex Plot No 84 East Lane Behid Joggers Park, Viman Nagar,Pune-14",
+    "total": "628.00"
+}

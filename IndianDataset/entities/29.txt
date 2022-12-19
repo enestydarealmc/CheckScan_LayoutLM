@@ -1,0 +1,6 @@
+{
+    "company": "Jubilant FoodWords Limited",
+    "date": "06/21/2022",
+    "address": "A - BLOCK, RAJU PARK, KHANPUR, NEW DELHI - 110062",
+    "total": "321.07"
+}

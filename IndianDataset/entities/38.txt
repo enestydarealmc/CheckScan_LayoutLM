@@ -1,0 +1,6 @@
+{
+    "company": "UNIQLO INDIA PVT. LTD.",
+    "date": "10/09/2022",
+    "address": "DLF phase 3, Sector 24, Gurgaon, Gurgaon, Haryana, 122002",
+    "total": "290.00"
+}

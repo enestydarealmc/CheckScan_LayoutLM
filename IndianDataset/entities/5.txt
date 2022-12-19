@@ -1,0 +1,6 @@
+{
+    "company": "La Pino'z (Bhagal Char RAsta, Surat)",
+    "date": "22/07/2022",
+    "address": "9/30, Kotsafil Main Road, Opp.. Dena Bank ATM, Bagal Char Rasta, Surat",
+    "total": "389.00"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "145",
+    "date": "22/07/2022",
+    "address": "KALAGHODA, FORT MUMBAI 400 001",
+    "total": "917.00"
+}

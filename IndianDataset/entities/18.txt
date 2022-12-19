@@ -1,0 +1,6 @@
+{
+    "company": "DMART RAIPURA",
+    "date": "26/07/2022",
+    "address": "RING ROAD NO.1, DINDAYAL UPDAYAY NAGAR, RAIPURA, RAIPUR, CHHATTISGARH:-492001",
+    "total": "1320.00"
+}

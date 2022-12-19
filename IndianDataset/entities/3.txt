@@ -1,0 +1,6 @@
+{
+    "company": "Sri jayalkshmi Bakery",
+    "date": "12/07/2022",
+    "address": "No- 1, Subbaih Circle,Lalbagh Road, Bangalore-560027.",
+    "total": "371.00"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "TURBAN TIKKA",
+    "date": "27/07/22",
+    "address": "Sangria building, Adj to KFC Baner Road Pune 411045",
+    "total": "243"
+}

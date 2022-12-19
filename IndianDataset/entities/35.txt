@@ -1,0 +1,6 @@
+{
+    "company": "Future Retail Limited",
+    "date": "22.07.22",
+    "address": "SCO-135, SECTOR-4,, KURUKSHETRA HARYANA, 136118",
+    "total": "27.00"
+}

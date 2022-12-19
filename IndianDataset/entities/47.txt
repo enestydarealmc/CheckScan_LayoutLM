@@ -1,0 +1,6 @@
+{
+    "company": "CHUTNEYS COFFEE HOUSE",
+    "date": "08/08/2022",
+    "address": "JUBILEE HILLS,HUDERABAD-500033",
+    "total": "593.50"
+}

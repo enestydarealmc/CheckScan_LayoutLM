@@ -1,0 +1,6 @@
+{
+    "company": "Marche Retail Pvt. Ltd.",
+    "date": "13-08-2022",
+    "address": "G-1, Ground Floor 1, Kilokri, New Delhi",
+    "total": "1007.50"
+}

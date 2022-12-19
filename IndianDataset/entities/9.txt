@@ -1,0 +1,6 @@
+{
+    "company": PENGUIN OVERSEAS,
+    "date": "12/08/22",
+    "address": "LG-6, SOUTH POINT MALL, SEC-53 GURGAON - 122001",
+    "total": "310.00"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "BHAGINI",
+    "date": "15/07/2022",
+    "address": "# 139/C1,Next to G R Tech Park,Pattandur Agrahara,ITPL Main Road,Bangalore-55 KARNATAKA 583201",
+    "total": "301.00"
+}

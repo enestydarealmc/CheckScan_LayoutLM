@@ -1,0 +1,6 @@
+{
+    "company": "Chawlas 2 (Surat)",
+    "date": "28/06/22",
+    "address": "SHOP NO.4,5, SAFAL SQUARE,OPP: PRIME SHOPPERS, UDHNA MAGDLLA ROAD, VESU, SURAT(MOBILE 7575882275)",
+    "total": "552.00"
+}

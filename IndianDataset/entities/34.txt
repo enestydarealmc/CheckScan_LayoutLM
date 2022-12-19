@@ -1,0 +1,6 @@
+{
+    "company": "FOOD BAZAAR (FUTURE RETAIL LTD)",
+    "date": "01.07.2017",
+    "address": "SHIPRA MALL PLOT NO.9 VAIBHAV KHAND INDIRAPURAM GHAZIABAD -201010",
+    "total": "1075.46"
+}

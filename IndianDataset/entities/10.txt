@@ -1,0 +1,6 @@
+{
+    "company": "Day Night Store",
+    "date": "24-04-2022",
+    "address": "G-14, Suncity Business Tower, Sector 54, Golf Course Road, 122001",
+    "total": "60"
+}

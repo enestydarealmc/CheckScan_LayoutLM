@@ -1,0 +1,6 @@
+{
+    "company": "KARNATAKA RESTAURANT",
+    "date": "14/07/2022",
+    "address": "46/3, YUSUF SARAI MARKET NEW DELHI-110016",
+    "total": "718.00"
+}

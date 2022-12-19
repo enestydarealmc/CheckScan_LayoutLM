@@ -1,0 +1,6 @@
+{
+    "company": "JAY AMBE FARSAN & BAKERY",
+    "date": "27-07-2022",
+    "address": "3/2919/12-C, SALBATPURA, SURAT -395003",
+    "total": "440.00"
+}

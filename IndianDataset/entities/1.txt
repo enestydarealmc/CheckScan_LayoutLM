@@ -1,0 +1,6 @@
+{
+    "company": "FBB-PUNE-WESTEND MALL",
+    "date": "11.07.2022",
+    "address": "WESTEND MALL, SECTOR 1, BUILD.A.S.NO.161, 1NEAR PARHIRAR CHOWK, DP ROAD, AUNDH PUNE-411007",
+    "total": "3341.88"
+}

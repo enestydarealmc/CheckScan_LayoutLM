@@ -1,0 +1,6 @@
+{
+    "company": "BIG BAZAAR (FUTURE RETAIL LTD)",
+    "date": "01.07.2022",
+    "address": "GURU EMPIRES, GRAND ROAD PURI, NEAR TOW POLICE STATION, PURI-752001",
+    "total": "2552.01"
+}

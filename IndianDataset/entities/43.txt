@@ -1,0 +1,6 @@
+{
+    "company": "MARTIN'S CORNER Bar N Restaurant",
+    "date": "23/06/22",
+    "address": "Binvaddo,Betalbatim Salcete.Goa",
+    "total": "1869"
+}

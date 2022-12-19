@@ -1,0 +1,6 @@
+{
+    "company": "Nirvana The Veg Cafe",
+    "date": "10-08-2022",
+    "address": "Opp Thai Temple Bodhgaya, Gaya-824231, Bihar(India)",
+    "total": "84.00"
+}

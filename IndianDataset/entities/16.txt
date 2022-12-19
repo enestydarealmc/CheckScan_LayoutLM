@@ -1,0 +1,6 @@
+{
+    "company": "BHARATIYAM Food & Beverages",
+    "date": "07/07/22",
+    "address": "T2 Airport Staff Canteen Level 1,P4,Gate No.1 CSI,Airport,Mumbai 400099",
+    "total": "80"
+}

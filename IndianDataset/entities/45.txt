@@ -1,0 +1,6 @@
+{
+    "company": "FOOD INN FINE DINE Proprietor PERENNIA RESTAURANT",
+    "date": "01/08/2022",
+    "address": "GF-1,MOH NI II,OPP.GANDHIGRAM RAILWAY STATION,ASHRAM ROAD,AHMEDABAD-380009",
+    "total": "1750"
+}

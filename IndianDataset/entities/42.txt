@@ -1,0 +1,6 @@
+{
+    "company": "SRI KRISHNA Veg Restaurant",
+    "date": "23/07/22",
+    "address": "New Muncipal Bldg Joban-Putra Compound Nana Chowk,Mumbai 400007",
+    "total": "70"
+}

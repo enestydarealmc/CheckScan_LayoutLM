@@ -1,0 +1,6 @@
+{
+    "company": "DMART KANDIVALI 1",
+    "date": "16/07/2022",
+    "address": "Narmada Mall, Vasant Sagar Complex, Thakur Village, Kandivali (E)",
+    "total": "1123.00"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "DMART BAPUNAGAR",
+    "date": "02/07/2022",
+    "address": "PLOT NO 145/1 L.B.SHASTRI ROAD , BAPU NAGAR, AHEMEDABAD PIN -380025",
+    "total": "827.00"
+}

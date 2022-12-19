@@ -1,0 +1,6 @@
+{
+    "company": "SHREE SAI TRADERS",
+    "date": "20-07-2022",
+    "address": "4/39-40, BEGAMPURA, ZAMPABAZAR OPP.DR.KANTI B WALA, SURAT",
+    "total": "122.50"
+}

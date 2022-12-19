@@ -1,0 +1,6 @@
+{
+    "company": "BIG BAZAAR (FUTURE RETAIL LTD)",
+    "date": "21.07.2022",
+    "address": "BB - Rohini Ambience Tower, Twin District Centre, Sector 10, Rohini, New Delhi - 110085",
+    "total": "25.00"
+}

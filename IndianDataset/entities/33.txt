@@ -1,0 +1,6 @@
+{
+    "company": "Burger King India Pvt. Ltd.",
+    "date": "24/07/2022",
+    "address": "Unit No. T 14, 3rd floor, Seasons Mall, Magarpatta City, Hadapsar",
+    "total": "323.40"
+}

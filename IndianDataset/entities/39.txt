@@ -1,0 +1,6 @@
+{
+    "company": "TENALI THE ANDHRA KITCHEN (A Unit of Tenali Hopsitality)",
+    "date": "25/07/22",
+    "address": "S-31, 2nd Floor, Green Park Main Market, New Delhi - 110016",
+    "total": "1862.00"
+}

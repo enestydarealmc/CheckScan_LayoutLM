@@ -1,0 +1,6 @@
+{
+    "company": "wadeshwar bhuvan",
+    "date": "15/07/22",
+    "address": "FOOD COURT, WESTEND MALL SECTOR-1, NEAR PARIHAR CHOWK, AUNDH, PUNE-411007",
+    "total": "295.00"
+}

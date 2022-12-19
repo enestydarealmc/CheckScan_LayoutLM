@@ -1,0 +1,6 @@
+{
+    "company": "ABC Company",
+    "date": "8-7-2022",
+    "address": "No. 22, 9th Cross, AMC Road Bangalore",
+    "total": "9360.00"
+}

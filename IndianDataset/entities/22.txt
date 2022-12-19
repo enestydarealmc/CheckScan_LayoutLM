@@ -1,0 +1,6 @@
+{
+    "company": "ANGITHI FAMILY RESTAURANT",
+    "date": "27-07-2022",
+    "address": "CLUB ROAD,RANCHI",
+    "total": "386.55"
+}

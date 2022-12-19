@@ -1,0 +1,6 @@
+{
+    "company": "La Pino'z (Airoli, Mumbai)",
+    "date": "28/07/22",
+    "address": "Shop No. A1, New Jeevan Shanti CHS, Sec 3, Airoli, Nai Mumbai, 400708",
+    "total": "1335.00"
+}

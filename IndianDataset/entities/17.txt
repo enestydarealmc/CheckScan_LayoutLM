@@ -1,0 +1,6 @@
+{
+    "company": "NOVEL NUTRIENTS PVT LTD",
+    "date": "30/06/22",
+    "address": "ABBIGERE, BANGALORE",
+    "total": "1700.00"
+}

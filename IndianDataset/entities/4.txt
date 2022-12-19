@@ -1,0 +1,6 @@
+{
+    "company": "APOORVA DELICACIES Pure Veg",
+    "date": "16/07/2022",
+    "address": "Dacar(W),Mumbai",
+    "total": "635"
+}

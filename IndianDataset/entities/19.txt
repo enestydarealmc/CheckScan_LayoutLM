@@ -1,0 +1,6 @@
+{
+    "company": "KFC TRAVEL FOOD SERVICES KOLKATA PVT. LTD",
+    "date": "19/07/2022",
+    "address": "DOMESTIC TERMINAL MSCDI AIRPORT,KOLKATA-700052",
+    "total": "530.00"
+}

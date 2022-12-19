@@ -1,0 +1,6 @@
+{
+    "company": "RASSAGAR SWEET HOUSE",
+    "date": "29/07/2022",
+    "address": "GS 9 SAGAR SHOPPING CENTER, SAHARA DARWAJA, RING ROAD",
+    "total": "85.00"
+}

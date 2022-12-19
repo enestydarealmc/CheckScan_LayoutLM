@@ -1,0 +1,6 @@
+{
+    "company": "ANANDHA BHAVAN A/C",
+    "date": "26/06/2022",
+    "address": "13 A ECR MAIN ROAD PILLAIYARKUPAM",
+    "total": "404.00"
+}
